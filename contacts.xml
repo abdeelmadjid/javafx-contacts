@@ -12,4 +12,10 @@
 	<number>068795849</number>
 	<note>devloper</note>
 </contact>
+<contact>
+	<fname>test fname</fname>
+	<lname>test lname</lname>
+	<number>764536457</number>
+	<note>just testing</note>
+</contact>
 </contacts>
